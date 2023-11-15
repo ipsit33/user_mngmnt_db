@@ -1,0 +1,116 @@
+{
+  "accounts": [
+    {
+      "id": 1,
+      "Username": "ipsit",
+      "Email": "ipsit@gmail.com",
+      "Password": "123",
+      "Phone": "9090534389",
+      "Creation_Date": "15/11/2023, 09:27:06 pm"
+    },
+    {
+      "Username": "ankit",
+      "Email": "ankit@gmail.com",
+      "Password": "243",
+      "Phone": "2334444",
+      "Creation_Date": "15/11/2023, 11:27:06 pm",
+      "id": 2
+    },
+    {
+      "Username": "tifi",
+      "Email": "tifi@gmail.com",
+      "Password": "tifi12",
+      "Phone": "4255566333",
+      "Creation_Date": "16/11/2023, 12:12:06 am",
+      "id": 3
+    },
+    {
+      "Username": "kumar",
+      "Email": "kumar@gmail.com",
+      "Password": "2123",
+      "Phone": "24455",
+      "Creation_Date": "16/11/2023, 12:36:00 am",
+      "id": 4
+    },
+    {
+      "Username": "kavita",
+      "Email": "kav@gmail.com",
+      "Password": "12",
+      "Phone": "244555",
+      "Creation_Date": "16/11/2023, 12:40:16 am",
+      "id": 5
+    },
+    {
+      "Username": "kok2",
+      "Email": "ko@gmail.com",
+      "Password": "12",
+      "Phone": "9644212",
+      "Creation_Date": "16/11/2023, 12:41:07 am",
+      "id": 6
+    },
+    {
+      "Username": "ko3",
+      "Email": "ko1@gmail.com",
+      "Password": "12",
+      "Phone": "9644244",
+      "Creation_Date": "16/11/2023, 12:41:53 am",
+      "id": 7
+    },
+    {
+      "Username": "ipsit",
+      "Email": "pop@gmail.com",
+      "Password": "Ipsit123",
+      "Phone": "1234567890",
+      "Creation_Date": "16/11/2023, 1:47:26 am",
+      "id": 8
+    },
+    {
+      "Username": "ispt22",
+      "Email": "ipsit22@gmail.com",
+      "Password": "ip12345",
+      "Phone": "9861294303",
+      "Creation_Date": "16/11/2023, 1:56:43 am",
+      "id": 9
+    },
+    {
+      "Username": "umang",
+      "Email": "umang@gmail.com",
+      "Password": "umang123",
+      "Phone": "7862465551",
+      "Creation_Date": "16/11/2023, 1:58:48 am",
+      "id": 10
+    },
+    {
+      "Username": "pramukh23",
+      "Email": "pramukh@gmail.com",
+      "Password": "pramuk123",
+      "Phone": "7844154663",
+      "Creation_Date": "16/11/2023, 1:59:26 am",
+      "id": 11
+    },
+    {
+      "Username": "bumrah",
+      "Email": "bumrah@gmail.com",
+      "Password": "bumrah123",
+      "Phone": "8884452142",
+      "Creation_Date": "16/11/2023, 2:04:29 am",
+      "id": 12
+    },
+    {
+      "Username": "rahul21",
+      "Email": "rahul@mail.com",
+      "Password": "rahul12",
+      "Phone": "4567891123",
+      "Creation_Date": "16/11/2023, 2:36:03 am",
+      "id": 13
+    },
+    {
+      "Username": "rina23",
+      "Email": "rina@gmail.com",
+      "Password": "rina123",
+      "Phone": "2421244456",
+      "Creation_Date": "16/11/2023, 2:37:02 am",
+      "id": 14
+    }
+  ]
+}
